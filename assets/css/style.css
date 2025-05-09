@@ -1,0 +1,30 @@
+body {
+  background-color: #121212;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: #90caf9;
+}
+
+a:hover {
+  color: #64b5f6;
+}
+
+hr {
+  border-color: #444;
+}
+
+code {
+  background-color: #1e1e1e;
+  padding: 2px 4px;
+  border-radius: 4px;
+}
+
+pre {
+  background-color: #1e1e1e;
+  padding: 10px;
+  border-radius: 6px;
+  overflow-x: auto;
+}

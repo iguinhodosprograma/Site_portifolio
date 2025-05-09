@@ -13,3 +13,5 @@ Desde sempre tive interesse pela área de computação, tanto hardware quanto so
 
 ## Um pouco mais sobre mim
 - [Google sites](https://sites.google.com/view/igor-christofidis-lima/p%C3%A1gina-inicial)
+
+<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
